@@ -1,0 +1,26 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "Learn by building an awesome development environment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosted/supergulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prosted/supergulp/issues"
+  },
+  "homepage": "https://github.com/Prosted/supergulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/register": "^7.12.10"
+  }
+}
